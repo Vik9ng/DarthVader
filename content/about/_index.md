@@ -1,7 +1,6 @@
 ---
 title: "Lidt om den stærkeste Sith der har levet. Ja, stærkere end Darth Malgus"
 date: 2018-01-29T16:08:11+01:00
-draft: true
 ---
 ![text](/img/kveler.png)
 
