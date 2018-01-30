@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kontakt on Min kreative side #DarthHarOgsåFøleleser</title>
-    <link>https://DarthVader.org/contact/</link>
+    <link>https://vik9ng.github.io/DarthVader/contact/</link>
     <description>Recent content in kontakt on Min kreative side #DarthHarOgsåFøleleser</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Sith Lord</copyright>
     <lastBuildDate>Mon, 29 Jan 2018 16:46:56 +0100</lastBuildDate>
     
-	<atom:link href="https://DarthVader.org/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vik9ng.github.io/DarthVader/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
