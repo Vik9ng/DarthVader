@@ -10,4 +10,4 @@ weight = 2
 Egentlig var jeg slave for Watto men så kom Qui-Gon og snød ham til at indgå en aftale om at hvis jeg vandt det der podrace (super let) så ville jeg blive fri. 
 <!--more-->
 
-![text](/img/portfolio/anakin.jpg)
+![text](http://static.thesuperficial.com/uploads/2015/06/jake-lloyd-pod-racing-640x426.jpg)

@@ -12,11 +12,11 @@ Jeg har ikke malet i så lang tid. Men jeg kan mærke jeg bliver bedre, dag for 
 
 #### Her er et par værker jeg arbejder på
 
-![text](/img/portfolio/mal1.jpg)
+![text](https://images.fineartamerica.com/images-medium-large-5/darth-vader-silhouette-rob-spitz.jpg)
 
-![text](/img/portfolio/mal2.jpg)
+![text](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/darth-vader-painting-scott-strachan.jpg)
 
 >Som du nok kan se er det helt klart noget af det bedste. Ihvertfald i NGC 936
 
-![text](/img/portfolio/mal3.jpg)
+![text](https://images.fineartamerica.com/images-medium-large-5/vader-watercolor-painting-olga-shvartsur.jpg)
 
