@@ -1,4 +1,4 @@
-baseurl = "https://vik9ng.github.io/DarthVader/"
+baseurl = "https://DarthVader.org/"
 title = "Min kreative side #DarthHarOgsåFøleleser"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -35,14 +35,18 @@ publishDir = "docs"
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
+  url = "/home/home"
+  
+  [[params.navlinks]]
+  name = "Portofolio"
   url = "/"
 
   [[params.navlinks]]
-  name = "about"
+  name = "About"
   url = "about/"
 
   [[params.navlinks]]
-  name = "contact"
+  name = "Contact"
   url = "contact/"
 
   [params.social]

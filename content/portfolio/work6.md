@@ -2,30 +2,21 @@
 draft = false
 image = ""
 date = "2016-11-05T19:56:17+05:30"
-title = "Name of the work 6"
+title = "Jeg finder det afslappende at male"
 showonlyimage = false
 weight = 6
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Jeg har ikke malet i så lang tid. Men jeg kan mærke jeg bliver bedre, dag for dag
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+#### Her er et par værker jeg arbejder på
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+![text](/img/portfolio/mal1.jpg)
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+![text](/img/portfolio/mal2.jpg)
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+>Som du nok kan se er det helt klart noget af det bedste. Ihvertfald i NGC 936
 
-## Header Level 2
+![text](/img/portfolio/mal3.jpg)
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
